@@ -59,6 +59,8 @@
     <Content Include="packages.config" />
     <None Include="RotateForMax.fsx" />
     <None Include="EqualSidesOfArray.fsx" />
+    <None Include="PerimeterOfSquares.fsx" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
