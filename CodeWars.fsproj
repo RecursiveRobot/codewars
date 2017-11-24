@@ -57,6 +57,8 @@
   <ItemGroup>
     <Compile Include="Tutorial.fsx" />
     <Content Include="packages.config" />
+    <None Include="RotateForMax.fsx" />
+    <None Include="EqualSidesOfArray.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
